@@ -1,0 +1,16 @@
+[
+    {
+        "name": "file_english_processed.txt",
+        "path": "project_root/data/processed/file_english_processed.txt",
+        "size": 13,
+        "created_at": "2024-11-24T01:22:02.638394",
+        "modified_at": "2024-11-24T01:22:02.638394"
+    },
+    {
+        "name": "file_russian_processed.txt",
+        "path": "project_root/data/processed/file_russian_processed.txt",
+        "size": 21,
+        "created_at": "2024-11-24T01:22:02.638743",
+        "modified_at": "2024-11-24T01:22:02.638743"
+    }
+]

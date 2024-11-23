@@ -1,0 +1,2 @@
+2024-11-24 00:18:23,733 - INFO - Processed file: project_root/data/raw/file_english.txt -> project_root/data/processed/file_english_processed.txt
+2024-11-24 00:18:23,734 - INFO - Processed file: project_root/data/raw/file_russian.txt -> project_root/data/processed/file_russian_processed.txt

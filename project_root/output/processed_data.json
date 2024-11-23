@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "file_english_processed.txt",
+        "original_text": "hELLO, WORLD!",
+        "processed_text": "Hello, world!",
+        "size_bytes": 13,
+        "last_modified": "Sun Nov 17 19:42:52 2024"
+    },
+    {
+        "filename": "file_russian_processed.txt",
+        "original_text": "\u043f\u0420\u0418\u0412\u0415\u0422, \u041c\u0418\u0420!",
+        "processed_text": "\u041f\u0440\u0438\u0432\u0435\u0442, \u043c\u0438\u0440!",
+        "size_bytes": 21,
+        "last_modified": "Sun Nov 17 19:42:52 2024"
+    }
+]
